@@ -1,0 +1,6 @@
+RAPPORT DU 2026-07-08
+========================================
+Nom: Routeur_Dakar_1 | Type: Routeur | IP: 192.168.1.1 | Statut: ACTIF | Total Logs: 6
+Nom: Routeur_Thies_1 | Type: Routeur | IP: 192.168.2.1 | Statut: ACTIF | Total Logs: 6
+Nom: Switch_Dakar_A | Type: Switch | IP: 192.168.1.10 | Statut: ACTIF | Total Logs: 6
+Nom: Switch_Dakar_B | Type: Switch | IP: 192.168.1.11 | Statut: ACTIF | Total Logs: 2
